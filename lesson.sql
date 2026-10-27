@@ -1,8 +1,8 @@
 /*
 Example lesson stub
 */
+SELECT	*
+FROM	PatientStay AS ps;
 
-SELECT
-	*
-FROM
-	PatientStay ps ;
+SELECT	*
+FROM	Tally AS t;
